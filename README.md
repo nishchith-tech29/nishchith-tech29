@@ -33,14 +33,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchith&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchith-tech29&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nishchith&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=nishchith-tech29&theme=tokyonight)
 
 ---
 
-⭐ *Keep learning, keep building*
+⭐ Keep learning, keep building
