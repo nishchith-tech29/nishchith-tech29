@@ -1,47 +1,45 @@
-# Hi, I'm Nishchith 👋
+# Hi there, I'm Nishchith! 👋 
 
-🎓 B.Tech Student  
-💻 DSA in C++  
-🌐 Learning Django & CSS  
-🤖 Exploring AI/ML  
+### 🚀 Aspiring Backend Architect & AI Engineer
+I am a passionate developer currently focusing on building robust backend systems and exploring the intersection of web technology and Machine Learning. 
 
 ---
 
-## 🚀 Skills
+### 🛠️ My Toolbox
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📚 Currently Working On
-
-- Solving DSA problems (Striver Sheet)
-- Building backend projects with Django
-- Learning AI/ML fundamentals
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 🎯 Goal
+### 🔭 Current Focus & Learning Path
 
-🚀 Backend Web Developer + AI Engineer
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nishchith-tech29&show_icons=true&theme=tokyonight)
-
+* 🧩 **Data Structures & Algorithms:** Grinding the **Striver A-Z Sheet** in C++ to sharpen problem-solving skills.
+* ⚙️ **Backend Systems:** Building scalable web applications using **Django** and **PostgreSQL**.
+* 🤖 **AI/ML:** Exploring foundational Machine Learning concepts and AI systems architecture.
+* 🌟 **Open Source:** Preparing for **GSoC** by contributing to meaningful projects.
 
 ---
 
-## 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nishchith-tech29&theme=tokyonight)
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchith-k-poojari-b98383407/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishchith072@gmail.com)
 
 ---
 
-⭐ Keep learning, keep building
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishchith-tech29&show_icons=true&theme=tokyonight&count_private=true" alt="Nishchith's Stats" height="180px" />
+<img src="https://streak-stats.demolab.com?user=nishchith-tech29&theme=tokyonight" alt="Nishchith's Streak" height="180px" />
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
