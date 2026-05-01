@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchith-tech29&show_icons=true&theme=tokyonight)
+![GitHub stats](https://gh-stats-gen.vercel.app/api?username=nishchith-tech29&show_icons=true&theme=tokyonight)
 
 ---
 
