@@ -34,7 +34,7 @@ I am a passionate developer currently focusing on building robust backend system
 ### 📊 GitHub Activity
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishchith-tech29&show_icons=true&theme=tokyonight&count_private=true" alt="Nishchith's Stats" height="180px" />
-<img src="https://streak-stats.demolab.com?user=nishchith-tech29&theme=tokyonight" alt="Nishchith's Streak" height="180px" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nishchith-tech29&theme=tokyonight" alt="Nishchith's Streak" height="180px" />
 </p>
 
 ---
