@@ -29,13 +29,6 @@ I am a passionate developer currently focusing on building robust backend system
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchith-k-poojari-b98383407/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishchith072@gmail.com)
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=nishchith-tech29&theme=tokyonight" alt="Nishchith's Streak" height="180px" />
-</p>
 
 ---
 
