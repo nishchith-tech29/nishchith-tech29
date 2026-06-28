@@ -21,7 +21,7 @@ I am a passionate developer currently focusing on building robust backend system
 * 🧩 **Data Structures & Algorithms:** Grinding the **Striver A-Z Sheet** in C++ to sharpen problem-solving skills.
 * ⚙️ **Backend Systems:** Building scalable web applications using **Django** and **PostgreSQL**.
 * 🤖 **AI/ML:** Exploring foundational Machine Learning concepts and AI systems architecture.
-* 🌟 **Open Source:** Preparing for **GSoC** by contributing to meaningful projects.
+
 
 ---
 
